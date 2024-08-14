@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "en": {
+            "word": "asteroid"
+        },
+        "es_correcto": {
+            "translation": "asteroide"
+        },
+        "es_incorrecto_1": {
+            "translation": "gato"
+        },
+        "es_incorrecto_2": {
+            "translation": "niebla"
+        },
+        "es_incorrecto_3": {
+            "translation": "cepillo"
+        }
+    },
+    {
+        "id": 2,
+        "en": {
+            "word": "mission"
+        },
+        "es_correcto": {
+            "translation": "misión"
+        },
+        "es_incorrecto_1": {
+            "translation": "botella"
+        },
+        "es_incorrecto_2": {
+            "translation": "salida del sol"
+        },
+        "es_incorrecto_3": {
+            "translation": "cosmos"
+        }
+    },
+    {
+        "id": 3,
+        "en": {
+            "word": "bird"
+        },
+        "es_correcto": {
+            "translation": "pájaro"
+        },
+        "es_incorrecto_1": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_2": {
+            "translation": "coche"
+        },
+        "es_incorrecto_3": {
+            "translation": "procedimiento"
+        }
+    },
+    {
+        "id": 4,
+        "en": {
+            "word": "sea"
+        },
+        "es_correcto": {
+            "translation": "mar"
+        },
+        "es_incorrecto_1": {
+            "translation": "investigación"
+        },
+        "es_incorrecto_2": {
+            "translation": "variable"
+        },
+        "es_incorrecto_3": {
+            "translation": "conclusión"
+        }
+    },
+    {
+        "id": 5,
+        "en": {
+            "word": "theory"
+        },
+        "es_correcto": {
+            "translation": "teoría"
+        },
+        "es_incorrecto_1": {
+            "translation": "nieve"
+        },
+        "es_incorrecto_2": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_3": {
+            "translation": "asteroide"
+        }
+    },
+    {
+        "id": 6,
+        "en": {
+            "word": "rocket"
+        },
+        "es_correcto": {
+            "translation": "cohete"
+        },
+        "es_incorrecto_1": {
+            "translation": "paraguas"
+        },
+        "es_incorrecto_2": {
+            "translation": "datos"
+        },
+        "es_incorrecto_3": {
+            "translation": "cinturón"
+        }
+    },
+    {
+        "id": 7,
+        "en": {
+            "word": "rain"
+        },
+        "es_correcto": {
+            "translation": "lluvia"
+        },
+        "es_incorrecto_1": {
+            "translation": "planta"
+        },
+        "es_incorrecto_2": {
+            "translation": "cinturón"
+        },
+        "es_incorrecto_3": {
+            "translation": "gato"
+        }
+    },
+    {
+        "id": 8,
+        "en": {
+            "word": "milk"
+        },
+        "es_correcto": {
+            "translation": "leche"
+        },
+        "es_incorrecto_1": {
+            "translation": "gato"
+        },
+        "es_incorrecto_2": {
+            "translation": "medición"
+        },
+        "es_incorrecto_3": {
+            "translation": "resultado"
+        }
+    },
+    {
+        "id": 9,
+        "en": {
+            "word": "cup"
+        },
+        "es_correcto": {
+            "translation": "taza"
+        },
+        "es_incorrecto_1": {
+            "translation": "nieve"
+        },
+        "es_incorrecto_2": {
+            "translation": "pelota"
+        },
+        "es_incorrecto_3": {
+            "translation": "luz de luna"
+        }
+    },
+    {
+        "id": 10,
+        "en": {
+            "word": "river"
+        },
+        "es_correcto": {
+            "translation": "río"
+        },
+        "es_incorrecto_1": {
+            "translation": "medición"
+        },
+        "es_incorrecto_2": {
+            "translation": "nebulosa"
+        },
+        "es_incorrecto_3": {
+            "translation": "pantalones"
+        }
+    },
+    {
+        "id": 11,
+        "en": {
+            "word": "comet"
+        },
+        "es_correcto": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_1": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_2": {
+            "translation": "papel"
+        },
+        "es_incorrecto_3": {
+            "translation": "lámpara"
+        }
+    },
+    {
+        "id": 12,
+        "en": {
+            "word": "desert"
+        },
+        "es_correcto": {
+            "translation": "desierto"
+        },
+        "es_incorrecto_1": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_2": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_3": {
+            "translation": "espacio"
+        }
+    },
+    {
+        "id": 13,
+        "en": {
+            "word": "tree"
+        },
+        "es_correcto": {
+            "translation": "árbol"
+        },
+        "es_incorrecto_1": {
+            "translation": "análisis"
+        },
+        "es_incorrecto_2": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_3": {
+            "translation": "conclusión"
+        }
+    },
+    {
+        "id": 14,
+        "en": {
+            "word": "garden"
+        },
+        "es_correcto": {
+            "translation": "jardín"
+        },
+        "es_incorrecto_1": {
+            "translation": "flor"
+        },
+        "es_incorrecto_2": {
+            "translation": "camino"
+        },
+        "es_incorrecto_3": {
+            "translation": "satélite"
+        }
+    },
+    {
+        "id": 15,
+        "en": {
+            "word": "research"
+        },
+        "es_correcto": {
+            "translation": "investigación"
+        },
+        "es_incorrecto_1": {
+            "translation": "descubrimiento"
+        },
+        "es_incorrecto_2": {
+            "translation": "observación"
+        },
+        "es_incorrecto_3": {
+            "translation": "nieve"
+        }
+    },
+    {
+        "id": 16,
+        "en": {
+            "word": "procedure"
+        },
+        "es_correcto": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_1": {
+            "translation": "telescopio"
+        },
+        "es_incorrecto_2": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_3": {
+            "translation": "silla"
+        }
+    },
+    {
+        "id": 17,
+        "en": {
+            "word": "pillow"
+        },
+        "es_correcto": {
+            "translation": "almohada"
+        },
+        "es_incorrecto_1": {
+            "translation": "instrumento"
+        },
+        "es_incorrecto_2": {
+            "translation": "equipo"
+        },
+        "es_incorrecto_3": {
+            "translation": "taza"
+        }
+    },
+    {
+        "id": 18,
+        "en": {
+            "word": "office"
+        },
+        "es_correcto": {
+            "translation": "oficina"
+        },
+        "es_incorrecto_1": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_2": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_3": {
+            "translation": "método"
+        }
+    },
+    {
+        "id": 19,
+        "en": {
+            "word": "belt"
+        },
+        "es_correcto": {
+            "translation": "cinturón"
+        },
+        "es_incorrecto_1": {
+            "translation": "anillo"
+        },
+        "es_incorrecto_2": {
+            "translation": "gato"
+        },
+        "es_incorrecto_3": {
+            "translation": "nube"
+        }
+    },
+    {
+        "id": 20,
+        "en": {
+            "word": "bread"
+        },
+        "es_correcto": {
+            "translation": "pan"
+        },
+        "es_incorrecto_1": {
+            "translation": "silla"
+        },
+        "es_incorrecto_2": {
+            "translation": "resultado"
+        },
+        "es_incorrecto_3": {
+            "translation": "reloj"
+        }
+    },
+    {
+        "id": 21,
+        "en": {
+            "word": "bottle"
+        },
+        "es_correcto": {
+            "translation": "botella"
+        },
+        "es_incorrecto_1": {
+            "translation": "camino"
+        },
+        "es_incorrecto_2": {
+            "translation": "informe"
+        },
+        "es_incorrecto_3": {
+            "translation": "análisis"
+        }
+    },
+    {
+        "id": 22,
+        "en": {
+            "word": "astronaut"
+        },
+        "es_correcto": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_1": {
+            "translation": "agujero negro"
+        },
+        "es_incorrecto_2": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_3": {
+            "translation": "papel"
+        }
+    },
+    {
+        "id": 23,
+        "en": {
+            "word": "nebula"
+        },
+        "es_correcto": {
+            "translation": "nebulosa"
+        },
+        "es_incorrecto_1": {
+            "translation": "libro"
+        },
+        "es_incorrecto_2": {
+            "translation": "planta"
+        },
+        "es_incorrecto_3": {
+            "translation": "botella"
+        }
+    },
+    {
+        "id": 24,
+        "en": {
+            "word": "phone"
+        },
+        "es_correcto": {
+            "translation": "teléfono"
+        },
+        "es_incorrecto_1": {
+            "translation": "cama"
+        },
+        "es_incorrecto_2": {
+            "translation": "expedición"
+        },
+        "es_incorrecto_3": {
+            "translation": "lámpara"
+        }
+    },
+    {
+        "id": 25,
+        "en": {
+            "word": "desert"
+        },
+        "es_correcto": {
+            "translation": "desierto"
+        },
+        "es_incorrecto_1": {
+            "translation": "flor"
+        },
+        "es_incorrecto_2": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_3": {
+            "translation": "investigación"
+        }
+    },
+    {
+        "id": 26,
+        "en": {
+            "word": "belt"
+        },
+        "es_correcto": {
+            "translation": "cinturón"
+        },
+        "es_incorrecto_1": {
+            "translation": "sombrero"
+        },
+        "es_incorrecto_2": {
+            "translation": "cielo"
+        },
+        "es_incorrecto_3": {
+            "translation": "pelota"
+        }
+    },
+    {
+        "id": 27,
+        "en": {
+            "word": "clock"
+        },
+        "es_correcto": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_1": {
+            "translation": "bicicleta"
+        },
+        "es_incorrecto_2": {
+            "translation": "bolígrafo"
+        },
+        "es_incorrecto_3": {
+            "translation": "método"
+        }
+    },
+    {
+        "id": 28,
+        "en": {
+            "word": "measurement"
+        },
+        "es_correcto": {
+            "translation": "medición"
+        },
+        "es_incorrecto_1": {
+            "translation": "asteroide"
+        },
+        "es_incorrecto_2": {
+            "translation": "meteoro"
+        },
+        "es_incorrecto_3": {
+            "translation": "ratón"
+        }
+    },
+    {
+        "id": 29,
+        "en": {
+            "word": "blanket"
+        },
+        "es_correcto": {
+            "translation": "manta"
+        },
+        "es_incorrecto_1": {
+            "translation": "camisa"
+        },
+        "es_incorrecto_2": {
+            "translation": "ventana"
+        },
+        "es_incorrecto_3": {
+            "translation": "anillo"
+        }
+    },
+    {
+        "id": 30,
+        "en": {
+            "word": "table"
+        },
+        "es_correcto": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_1": {
+            "translation": "control"
+        },
+        "es_incorrecto_2": {
+            "translation": "datos"
+        },
+        "es_incorrecto_3": {
+            "translation": "gato"
+        }
+    },
+    {
+        "id": 31,
+        "en": {
+            "word": "door"
+        },
+        "es_correcto": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_1": {
+            "translation": "paraguas"
+        },
+        "es_incorrecto_2": {
+            "translation": "mochila"
+        },
+        "es_incorrecto_3": {
+            "translation": "teléfono"
+        }
+    },
+    {
+        "id": 32,
+        "en": {
+            "word": "medicine"
+        },
+        "es_correcto": {
+            "translation": "medicina"
+        },
+        "es_incorrecto_1": {
+            "translation": "método"
+        },
+        "es_incorrecto_2": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_3": {
+            "translation": "sol"
+        }
+    },
+    {
+        "id": 33,
+        "en": {
+            "word": "observation"
+        },
+        "es_correcto": {
+            "translation": "observación"
+        },
+        "es_incorrecto_1": {
+            "translation": "perro"
+        },
+        "es_incorrecto_2": {
+            "translation": "datos"
+        },
+        "es_incorrecto_3": {
+            "translation": "niebla"
+        }
+    },
+    {
+        "id": 34,
+        "en": {
+            "word": "hat"
+        },
+        "es_correcto": {
+            "translation": "sombrero"
+        },
+        "es_incorrecto_1": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_2": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_3": {
+            "translation": "botella"
+        }
+    },
+    {
+        "id": 35,
+        "en": {
+            "word": "sample"
+        },
+        "es_correcto": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_1": {
+            "translation": "pelota"
+        },
+        "es_incorrecto_2": {
+            "translation": "cama"
+        },
+        "es_incorrecto_3": {
+            "translation": "teléfono"
+        }
+    },
+    {
+        "id": 36,
+        "en": {
+            "word": "butter"
+        },
+        "es_correcto": {
+            "translation": "mantequilla"
+        },
+        "es_incorrecto_1": {
+            "translation": "manta"
+        },
+        "es_incorrecto_2": {
+            "translation": "análisis"
+        },
+        "es_incorrecto_3": {
+            "translation": "puente"
+        }
+    },
+    {
+        "id": 37,
+        "en": {
+            "word": "eraser"
+        },
+        "es_correcto": {
+            "translation": "borrador"
+        },
+        "es_incorrecto_1": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_2": {
+            "translation": "datos"
+        },
+        "es_incorrecto_3": {
+            "translation": "tormenta"
+        }
+    },
+    {
+        "id": 38,
+        "en": {
+            "word": "school"
+        },
+        "es_correcto": {
+            "translation": "escuela"
+        },
+        "es_incorrecto_1": {
+            "translation": "teoría"
+        },
+        "es_incorrecto_2": {
+            "translation": "perro"
+        },
+        "es_incorrecto_3": {
+            "translation": "telescopio"
+        }
+    },
+    {
+        "id": 39,
+        "en": {
+            "word": "telescope"
+        },
+        "es_correcto": {
+            "translation": "telescopio"
+        },
+        "es_incorrecto_1": {
+            "translation": "espejo"
+        },
+        "es_incorrecto_2": {
+            "translation": "galaxia"
+        },
+        "es_incorrecto_3": {
+            "translation": "ventana"
+        }
+    },
+    {
+        "id": 40,
+        "en": {
+            "word": "satellite"
+        },
+        "es_correcto": {
+            "translation": "satélite"
+        },
+        "es_incorrecto_1": {
+            "translation": "anillo"
+        },
+        "es_incorrecto_2": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_3": {
+            "translation": "nieve"
+        }
+    },
+    {
+        "id": 41,
+        "en": {
+            "word": "sea"
+        },
+        "es_correcto": {
+            "translation": "mar"
+        },
+        "es_incorrecto_1": {
+            "translation": "perro"
+        },
+        "es_incorrecto_2": {
+            "translation": "cielo"
+        },
+        "es_incorrecto_3": {
+            "translation": "tormenta"
+        }
+    },
+    {
+        "id": 42,
+        "en": {
+            "word": "bicycle"
+        },
+        "es_correcto": {
+            "translation": "bicicleta"
+        },
+        "es_incorrecto_1": {
+            "translation": "zapato"
+        },
+        "es_incorrecto_2": {
+            "translation": "teoría"
+        },
+        "es_incorrecto_3": {
+            "translation": "método"
+        }
+    },
+    {
+        "id": 43,
+        "en": {
+            "word": "library"
+        },
+        "es_correcto": {
+            "translation": "biblioteca"
+        },
+        "es_incorrecto_1": {
+            "translation": "manta"
+        },
+        "es_incorrecto_2": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_3": {
+            "translation": "procedimiento"
+        }
+    },
+    {
+        "id": 44,
+        "en": {
+            "word": "observation"
+        },
+        "es_correcto": {
+            "translation": "observación"
+        },
+        "es_incorrecto_1": {
+            "translation": "publicación"
+        },
+        "es_incorrecto_2": {
+            "translation": "lámpara"
+        },
+        "es_incorrecto_3": {
+            "translation": "planta"
+        }
+    },
+    {
+        "id": 45,
+        "en": {
+            "word": "table"
+        },
+        "es_correcto": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_1": {
+            "translation": "planeta"
+        },
+        "es_incorrecto_2": {
+            "translation": "informe"
+        },
+        "es_incorrecto_3": {
+            "translation": "instrumento"
+        }
+    },
+    {
+        "id": 46,
+        "en": {
+            "word": "instrument"
+        },
+        "es_correcto": {
+            "translation": "instrumento"
+        },
+        "es_incorrecto_1": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_2": {
+            "translation": "teoría"
+        },
+        "es_incorrecto_3": {
+            "translation": "asteroide"
+        }
+    },
+    {
+        "id": 47,
+        "en": {
+            "word": "door"
+        },
+        "es_correcto": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_1": {
+            "translation": "publicación"
+        },
+        "es_incorrecto_2": {
+            "translation": "cosmos"
+        },
+        "es_incorrecto_3": {
+            "translation": "medición"
+        }
+    },
+    {
+        "id": 48,
+        "en": {
+            "word": "airport"
+        },
+        "es_correcto": {
+            "translation": "aeropuerto"
+        },
+        "es_incorrecto_1": {
+            "translation": "nube"
+        },
+        "es_incorrecto_2": {
+            "translation": "lluvia"
+        },
+        "es_incorrecto_3": {
+            "translation": "universo"
+        }
+    },
+    {
+        "id": 49,
+        "en": {
+            "word": "clock"
+        },
+        "es_correcto": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_1": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_2": {
+            "translation": "botella"
+        },
+        "es_incorrecto_3": {
+            "translation": "nieve"
+        }
+    },
+    {
+        "id": 50,
+        "en": {
+            "word": "student"
+        },
+        "es_correcto": {
+            "translation": "estudiante"
+        },
+        "es_incorrecto_1": {
+            "translation": "llave"
+        },
+        "es_incorrecto_2": {
+            "translation": "observación"
+        },
+        "es_incorrecto_3": {
+            "translation": "telescopio"
+        }
+    },
+    {
+        "id": 51,
+        "en": {
+            "word": "office"
+        },
+        "es_correcto": {
+            "translation": "oficina"
+        },
+        "es_incorrecto_1": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_2": {
+            "translation": "luz de luna"
+        },
+        "es_incorrecto_3": {
+            "translation": "camisa"
+        }
+    },
+    {
+        "id": 52,
+        "en": {
+            "word": "universe"
+        },
+        "es_correcto": {
+            "translation": "universo"
+        },
+        "es_incorrecto_1": {
+            "translation": "camisa"
+        },
+        "es_incorrecto_2": {
+            "translation": "informe"
+        },
+        "es_incorrecto_3": {
+            "translation": "puente"
+        }
+    },
+    {
+        "id": 53,
+        "en": {
+            "word": "key"
+        },
+        "es_correcto": {
+            "translation": "llave"
+        },
+        "es_incorrecto_1": {
+            "translation": "paraguas"
+        },
+        "es_incorrecto_2": {
+            "translation": "lámpara"
+        },
+        "es_incorrecto_3": {
+            "translation": "papel"
+        }
+    },
+    {
+        "id": 54,
+        "en": {
+            "word": "school"
+        },
+        "es_correcto": {
+            "translation": "escuela"
+        },
+        "es_incorrecto_1": {
+            "translation": "teoría"
+        },
+        "es_incorrecto_2": {
+            "translation": "conclusión"
+        },
+        "es_incorrecto_3": {
+            "translation": "planeta"
+        }
+    },
+    {
+        "id": 55,
+        "en": {
+            "word": "result"
+        },
+        "es_correcto": {
+            "translation": "resultado"
+        },
+        "es_incorrecto_1": {
+            "translation": "laboratorio"
+        },
+        "es_incorrecto_2": {
+            "translation": "eclipse"
+        },
+        "es_incorrecto_3": {
+            "translation": "descubrimiento"
+        }
+    },
+    {
+        "id": 56,
+        "en": {
+            "word": "sea"
+        },
+        "es_correcto": {
+            "translation": "mar"
+        },
+        "es_incorrecto_1": {
+            "translation": "niebla"
+        },
+        "es_incorrecto_2": {
+            "translation": "publicación"
+        },
+        "es_incorrecto_3": {
+            "translation": "cielo"
+        }
+    },
+    {
+        "id": 57,
+        "en": {
+            "word": "sky"
+        },
+        "es_correcto": {
+            "translation": "cielo"
+        },
+        "es_incorrecto_1": {
+            "translation": "botella"
+        },
+        "es_incorrecto_2": {
+            "translation": "satélite"
+        },
+        "es_incorrecto_3": {
+            "translation": "planeta"
+        }
+    },
+    {
+        "id": 58,
+        "en": {
+            "word": "notebook"
+        },
+        "es_correcto": {
+            "translation": "cuaderno"
+        },
+        "es_incorrecto_1": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_2": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_3": {
+            "translation": "mesa"
+        }
+    },
+    {
+        "id": 59,
+        "en": {
+            "word": "table"
+        },
+        "es_correcto": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_1": {
+            "translation": "expedición"
+        },
+        "es_incorrecto_2": {
+            "translation": "ventana"
+        },
+        "es_incorrecto_3": {
+            "translation": "meteoro"
+        }
+    },
+    {
+        "id": 60,
+        "en": {
+            "word": "sunrise"
+        },
+        "es_correcto": {
+            "translation": "salida del sol"
+        },
+        "es_incorrecto_1": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_2": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_3": {
+            "translation": "gato"
+        }
+    },
+    {
+        "id": 61,
+        "en": {
+            "word": "shoe"
+        },
+        "es_correcto": {
+            "translation": "zapato"
+        },
+        "es_incorrecto_1": {
+            "translation": "salida del sol"
+        },
+        "es_incorrecto_2": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_3": {
+            "translation": "sol"
+        }
+    },
+    {
+        "id": 62,
+        "en": {
+            "word": "butter"
+        },
+        "es_correcto": {
+            "translation": "mantequilla"
+        },
+        "es_incorrecto_1": {
+            "translation": "asteroide"
+        },
+        "es_incorrecto_2": {
+            "translation": "edificio"
+        },
+        "es_incorrecto_3": {
+            "translation": "cielo"
+        }
+    },
+    {
+        "id": 63,
+        "en": {
+            "word": "cloud"
+        },
+        "es_correcto": {
+            "translation": "nube"
+        },
+        "es_incorrecto_1": {
+            "translation": "expedición"
+        },
+        "es_incorrecto_2": {
+            "translation": "espacio"
+        },
+        "es_incorrecto_3": {
+            "translation": "camisa"
+        }
+    },
+    {
+        "id": 64,
+        "en": {
+            "word": "shoe"
+        },
+        "es_correcto": {
+            "translation": "zapato"
+        },
+        "es_incorrecto_1": {
+            "translation": "coche"
+        },
+        "es_incorrecto_2": {
+            "translation": "planta"
+        },
+        "es_incorrecto_3": {
+            "translation": "libro"
+        }
+    },
+    {
+        "id": 65,
+        "en": {
+            "word": "result"
+        },
+        "es_correcto": {
+            "translation": "resultado"
+        },
+        "es_incorrecto_1": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_2": {
+            "translation": "informe"
+        },
+        "es_incorrecto_3": {
+            "translation": "ventana"
+        }
+    },
+    {
+        "id": 66,
+        "en": {
+            "word": "window"
+        },
+        "es_correcto": {
+            "translation": "ventana"
+        },
+        "es_incorrecto_1": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_2": {
+            "translation": "ventilador"
+        },
+        "es_incorrecto_3": {
+            "translation": "expedición"
+        }
+    },
+    {
+        "id": 67,
+        "en": {
+            "word": "bread"
+        },
+        "es_correcto": {
+            "translation": "pan"
+        },
+        "es_incorrecto_1": {
+            "translation": "sol"
+        },
+        "es_incorrecto_2": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_3": {
+            "translation": "laboratorio"
+        }
+    },
+    {
+        "id": 68,
+        "en": {
+            "word": "observation"
+        },
+        "es_correcto": {
+            "translation": "observación"
+        },
+        "es_incorrecto_1": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_2": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_3": {
+            "translation": "control"
+        }
+    },
+    {
+        "id": 69,
+        "en": {
+            "word": "river"
+        },
+        "es_correcto": {
+            "translation": "río"
+        },
+        "es_incorrecto_1": {
+            "translation": "cepillo"
+        },
+        "es_incorrecto_2": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_3": {
+            "translation": "astronauta"
+        }
+    },
+    {
+        "id": 70,
+        "en": {
+            "word": "train"
+        },
+        "es_correcto": {
+            "translation": "tren"
+        },
+        "es_incorrecto_1": {
+            "translation": "protocolo"
+        },
+        "es_incorrecto_2": {
+            "translation": "ventilador"
+        },
+        "es_incorrecto_3": {
+            "translation": "anillo"
+        }
+    },
+    {
+        "id": 71,
+        "en": {
+            "word": "experiment"
+        },
+        "es_correcto": {
+            "translation": "experimento"
+        },
+        "es_incorrecto_1": {
+            "translation": "bicicleta"
+        },
+        "es_incorrecto_2": {
+            "translation": "control"
+        },
+        "es_incorrecto_3": {
+            "translation": "meteoro"
+        }
+    },
+    {
+        "id": 72,
+        "en": {
+            "word": "data"
+        },
+        "es_correcto": {
+            "translation": "datos"
+        },
+        "es_incorrecto_1": {
+            "translation": "sol"
+        },
+        "es_incorrecto_2": {
+            "translation": "pelota"
+        },
+        "es_incorrecto_3": {
+            "translation": "instrumento"
+        }
+    },
+    {
+        "id": 73,
+        "en": {
+            "word": "discovery"
+        },
+        "es_correcto": {
+            "translation": "descubrimiento"
+        },
+        "es_incorrecto_1": {
+            "translation": "galaxia"
+        },
+        "es_incorrecto_2": {
+            "translation": "sujeto"
+        },
+        "es_incorrecto_3": {
+            "translation": "asteroide"
+        }
+    },
+    {
+        "id": 74,
+        "en": {
+            "word": "train"
+        },
+        "es_correcto": {
+            "translation": "tren"
+        },
+        "es_incorrecto_1": {
+            "translation": "publicación"
+        },
+        "es_incorrecto_2": {
+            "translation": "libro"
+        },
+        "es_incorrecto_3": {
+            "translation": "mesa"
+        }
+    },
+    {
+        "id": 75,
+        "en": {
+            "word": "train"
+        },
+        "es_correcto": {
+            "translation": "tren"
+        },
+        "es_incorrecto_1": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_2": {
+            "translation": "astronauta"
+        },
+        "es_incorrecto_3": {
+            "translation": "meteoro"
+        }
+    },
+    {
+        "id": 76,
+        "en": {
+            "word": "bed"
+        },
+        "es_correcto": {
+            "translation": "cama"
+        },
+        "es_incorrecto_1": {
+            "translation": "manta"
+        },
+        "es_incorrecto_2": {
+            "translation": "procedimiento"
+        },
+        "es_incorrecto_3": {
+            "translation": "cepillo"
+        }
+    },
+    {
+        "id": 77,
+        "en": {
+            "word": "measurement"
+        },
+        "es_correcto": {
+            "translation": "medición"
+        },
+        "es_incorrecto_1": {
+            "translation": "nieve"
+        },
+        "es_incorrecto_2": {
+            "translation": "espacio"
+        },
+        "es_incorrecto_3": {
+            "translation": "mochila"
+        }
+    },
+    {
+        "id": 78,
+        "en": {
+            "word": "comet"
+        },
+        "es_correcto": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_1": {
+            "translation": "libro"
+        },
+        "es_incorrecto_2": {
+            "translation": "satélite"
+        },
+        "es_incorrecto_3": {
+            "translation": "gato"
+        }
+    },
+    {
+        "id": 79,
+        "en": {
+            "word": "mirror"
+        },
+        "es_correcto": {
+            "translation": "espejo"
+        },
+        "es_incorrecto_1": {
+            "translation": "misión"
+        },
+        "es_incorrecto_2": {
+            "translation": "tormenta"
+        },
+        "es_incorrecto_3": {
+            "translation": "llave"
+        }
+    },
+    {
+        "id": 80,
+        "en": {
+            "word": "cloud"
+        },
+        "es_correcto": {
+            "translation": "nube"
+        },
+        "es_incorrecto_1": {
+            "translation": "nebulosa"
+        },
+        "es_incorrecto_2": {
+            "translation": "telescopio"
+        },
+        "es_incorrecto_3": {
+            "translation": "experimento"
+        }
+    },
+    {
+        "id": 81,
+        "en": {
+            "word": "clock"
+        },
+        "es_correcto": {
+            "translation": "reloj"
+        },
+        "es_incorrecto_1": {
+            "translation": "telescopio"
+        },
+        "es_incorrecto_2": {
+            "translation": "eclipse"
+        },
+        "es_incorrecto_3": {
+            "translation": "edificio"
+        }
+    },
+    {
+        "id": 82,
+        "en": {
+            "word": "rain"
+        },
+        "es_correcto": {
+            "translation": "lluvia"
+        },
+        "es_incorrecto_1": {
+            "translation": "misión"
+        },
+        "es_incorrecto_2": {
+            "translation": "nube"
+        },
+        "es_incorrecto_3": {
+            "translation": "taza"
+        }
+    },
+    {
+        "id": 83,
+        "en": {
+            "word": "pillow"
+        },
+        "es_correcto": {
+            "translation": "almohada"
+        },
+        "es_incorrecto_1": {
+            "translation": "pantalones"
+        },
+        "es_incorrecto_2": {
+            "translation": "gato"
+        },
+        "es_incorrecto_3": {
+            "translation": "sombrero"
+        }
+    },
+    {
+        "id": 84,
+        "en": {
+            "word": "sunrise"
+        },
+        "es_correcto": {
+            "translation": "salida del sol"
+        },
+        "es_incorrecto_1": {
+            "translation": "botella"
+        },
+        "es_incorrecto_2": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_3": {
+            "translation": "viento"
+        }
+    },
+    {
+        "id": 85,
+        "en": {
+            "word": "pants"
+        },
+        "es_correcto": {
+            "translation": "pantalones"
+        },
+        "es_incorrecto_1": {
+            "translation": "puesta de sol"
+        },
+        "es_incorrecto_2": {
+            "translation": "lápiz"
+        },
+        "es_incorrecto_3": {
+            "translation": "muestra"
+        }
+    },
+    {
+        "id": 86,
+        "en": {
+            "word": "star"
+        },
+        "es_correcto": {
+            "translation": "estrella"
+        },
+        "es_incorrecto_1": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_2": {
+            "translation": "variable"
+        },
+        "es_incorrecto_3": {
+            "translation": "experimento"
+        }
+    },
+    {
+        "id": 87,
+        "en": {
+            "word": "milk"
+        },
+        "es_correcto": {
+            "translation": "leche"
+        },
+        "es_incorrecto_1": {
+            "translation": "libro"
+        },
+        "es_incorrecto_2": {
+            "translation": "cometa"
+        },
+        "es_incorrecto_3": {
+            "translation": "misión"
+        }
+    },
+    {
+        "id": 88,
+        "en": {
+            "word": "house"
+        },
+        "es_correcto": {
+            "translation": "casa"
+        },
+        "es_incorrecto_1": {
+            "translation": "misión"
+        },
+        "es_incorrecto_2": {
+            "translation": "equipo"
+        },
+        "es_incorrecto_3": {
+            "translation": "agujero negro"
+        }
+    },
+    {
+        "id": 89,
+        "en": {
+            "word": "sky"
+        },
+        "es_correcto": {
+            "translation": "cielo"
+        },
+        "es_incorrecto_1": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_2": {
+            "translation": "estrella"
+        },
+        "es_incorrecto_3": {
+            "translation": "zapato"
+        }
+    },
+    {
+        "id": 90,
+        "en": {
+            "word": "hypothesis"
+        },
+        "es_correcto": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_1": {
+            "translation": "protocolo"
+        },
+        "es_incorrecto_2": {
+            "translation": "nube"
+        },
+        "es_incorrecto_3": {
+            "translation": "método"
+        }
+    },
+    {
+        "id": 91,
+        "en": {
+            "word": "car"
+        },
+        "es_correcto": {
+            "translation": "coche"
+        },
+        "es_incorrecto_1": {
+            "translation": "datos"
+        },
+        "es_incorrecto_2": {
+            "translation": "planeta"
+        },
+        "es_incorrecto_3": {
+            "translation": "libro"
+        }
+    },
+    {
+        "id": 92,
+        "en": {
+            "word": "table"
+        },
+        "es_correcto": {
+            "translation": "mesa"
+        },
+        "es_incorrecto_1": {
+            "translation": "cosmos"
+        },
+        "es_incorrecto_2": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_3": {
+            "translation": "taza"
+        }
+    },
+    {
+        "id": 93,
+        "en": {
+            "word": "key"
+        },
+        "es_correcto": {
+            "translation": "llave"
+        },
+        "es_incorrecto_1": {
+            "translation": "ventana"
+        },
+        "es_incorrecto_2": {
+            "translation": "estrella"
+        },
+        "es_incorrecto_3": {
+            "translation": "astronauta"
+        }
+    },
+    {
+        "id": 94,
+        "en": {
+            "word": "island"
+        },
+        "es_correcto": {
+            "translation": "isla"
+        },
+        "es_incorrecto_1": {
+            "translation": "almohada"
+        },
+        "es_incorrecto_2": {
+            "translation": "instrumento"
+        },
+        "es_incorrecto_3": {
+            "translation": "resultado"
+        }
+    },
+    {
+        "id": 95,
+        "en": {
+            "word": "river"
+        },
+        "es_correcto": {
+            "translation": "río"
+        },
+        "es_incorrecto_1": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_2": {
+            "translation": "nebulosa"
+        },
+        "es_incorrecto_3": {
+            "translation": "cohete"
+        }
+    },
+    {
+        "id": 96,
+        "en": {
+            "word": "data"
+        },
+        "es_correcto": {
+            "translation": "datos"
+        },
+        "es_incorrecto_1": {
+            "translation": "espejo"
+        },
+        "es_incorrecto_2": {
+            "translation": "puerta"
+        },
+        "es_incorrecto_3": {
+            "translation": "gato"
+        }
+    },
+    {
+        "id": 97,
+        "en": {
+            "word": "space"
+        },
+        "es_correcto": {
+            "translation": "espacio"
+        },
+        "es_incorrecto_1": {
+            "translation": "muestra"
+        },
+        "es_incorrecto_2": {
+            "translation": "tierra"
+        },
+        "es_incorrecto_3": {
+            "translation": "botella"
+        }
+    },
+    {
+        "id": 98,
+        "en": {
+            "word": "valley"
+        },
+        "es_correcto": {
+            "translation": "valle"
+        },
+        "es_incorrecto_1": {
+            "translation": "descubrimiento"
+        },
+        "es_incorrecto_2": {
+            "translation": "galaxia"
+        },
+        "es_incorrecto_3": {
+            "translation": "protocolo"
+        }
+    },
+    {
+        "id": 99,
+        "en": {
+            "word": "hypothesis"
+        },
+        "es_correcto": {
+            "translation": "hipótesis"
+        },
+        "es_incorrecto_1": {
+            "translation": "nebulosa"
+        },
+        "es_incorrecto_2": {
+            "translation": "pantalones"
+        },
+        "es_incorrecto_3": {
+            "translation": "sujeto"
+        }
+    },
+    {
+        "id": 100,
+        "en": {
+            "word": "star"
+        },
+        "es_correcto": {
+            "translation": "estrella"
+        },
+        "es_incorrecto_1": {
+            "translation": "asteroide"
+        },
+        "es_incorrecto_2": {
+            "translation": "libro"
+        },
+        "es_incorrecto_3": {
+            "translation": "perro"
+        }
+    }
+]
